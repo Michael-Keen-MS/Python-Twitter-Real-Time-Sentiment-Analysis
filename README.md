@@ -1,2 +1,3 @@
 # Python-Twitter-Real-Time-Sentiment-Analysis
 - I wrote this code as part of a Hack-a-thon while working for Xfinity Comcast in the Business Intelligence Department as a means to collect real time feedback from Twitter on a new product line that was launched several days prior.
+- By running two consoles simultaneously I was able to have one instance webscrape streaming twitter tweets matching specified search criteria (TwitterScraper.ipynb), and then used the second instance to create a dashboard of the data as it's being funneled into a helper excel file by the first instance demonstrating the average of multiple sentiment analyisis libaries and additional KPI's (TwitterScraper_VIZ).
